@@ -1,0 +1,19 @@
+Source: ubuntu-gnome-remix-desktop
+Maintainer: Dmitriy Safronov <zimniy@cyberbrain.pw>
+Build-Depends: debhelper-compat (= 12)
+Section: metapackages
+Priority: optional
+Standards-Version: 4.5.0
+
+Package: ubuntu-gnome-remix-desktop
+Architecture: all
+# Section: metapackages
+# Priority: optional
+# Pre-Depends: <comma-separated list of packages>
+Depends: vanilla-gnome-desktop
+Recommends: gnome-firmware
+# Suggests: <comma-separated list of packages>
+# Provides: <comma-separated list of packages>
+# Replaces: <comma-separated list of packages>
+Description: Ubuntu GNOME remix desktop metapackage
+ Holds dependencies for Ubuntu GNOME remix desktop
