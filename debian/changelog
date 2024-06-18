@@ -1,8 +1,15 @@
+ubuntu-gnome-remix-desktop (0.1.1) unstable; urgency=low
+
+
+  * Latest
+
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Tue, 18 Jun 2024 19:32:24 +0000
+
 ubuntu-gnome-remix-desktop (0.1.0) unstable; urgency=low
 
 
   * Cliff.debian (#4)
   * Initial content (#3)
 
- -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Tue, 18 Jun 2024 13:07:07 +0000
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Tue, 18 Jun 2024 13:07:08 +0000
 
