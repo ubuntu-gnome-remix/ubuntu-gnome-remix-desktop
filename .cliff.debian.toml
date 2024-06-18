@@ -2,7 +2,7 @@
 # template for the changelog body
 # https://keats.github.io/tera/docs/#introduction
 body = """
-{%- set APPLICATION = 'debian-changelog-test' -%}
+{%- set APPLICATION = 'ubuntu-gnome-remix-desktop' -%}
 {%- set MAINTAINER = 'Dmitriy Safronov <zimniy@cyberbrain.pw>' -%}
 {{ APPLICATION }} \
 {% if version %}\
