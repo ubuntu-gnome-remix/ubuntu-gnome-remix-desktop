@@ -11,7 +11,7 @@ Architecture: all
 # Priority: optional
 # Pre-Depends: <comma-separated list of packages>
 Depends: vanilla-gnome-desktop
-Recommends: gnome-firmware, cryptsetup-initramfs, dosfstools, lvm2, ntfs-3g, udftools, btrfs-progs, exfatprogs, f2fs-tools, mdadm, bash-completion, gnome-clocks, remmina
+Recommends: gnome-firmware, cryptsetup-initramfs, dosfstools, lvm2, ntfs-3g, udftools, btrfs-progs, exfatprogs, f2fs-tools, mdadm, bash-completion, gnome-clocks, remmina, gnome-power-manager
 # Suggests: <comma-separated list of packages>
 # Provides: <comma-separated list of packages>
 # Replaces: <comma-separated list of packages>
