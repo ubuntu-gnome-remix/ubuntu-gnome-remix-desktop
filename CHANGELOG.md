@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.0] - 2024-06-21
+
+### 🚀 Features
+
+- Gnome-power-manager
+
 ## [0.3.0] - 2024-06-21
 
 ### 🚀 Features

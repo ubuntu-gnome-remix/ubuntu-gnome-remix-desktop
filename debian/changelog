@@ -1,8 +1,14 @@
+ubuntu-gnome-remix-desktop (0.4.0) unstable; urgency=low
+
+  * Gnome-power-manager
+
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Fri, 21 Jun 2024 15:43:15 +0000
+
 ubuntu-gnome-remix-desktop (0.3.0) unstable; urgency=low
 
   * Add gnome-clocks, remmina
 
- -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Fri, 21 Jun 2024 14:57:51 +0000
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Fri, 21 Jun 2024 14:57:52 +0000
 
 ubuntu-gnome-remix-desktop (0.2.1) unstable; urgency=low
 
