@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.3.0] - 2024-06-21
+
+### 🚀 Features
+
+- Add gnome-clocks, remmina
+
 ## [0.2.1] - 2024-06-18
 
 ### 🐛 Bug Fixes
