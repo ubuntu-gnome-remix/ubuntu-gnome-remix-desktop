@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.5.0] - 2024-07-03
+
+### 🚀 Features
+
+- Ubuntu-standard, ubuntu-minimal
+
 ## [0.4.0] - 2024-06-21
 
 ### 🚀 Features
