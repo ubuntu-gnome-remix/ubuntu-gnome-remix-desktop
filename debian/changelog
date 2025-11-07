@@ -1,8 +1,14 @@
+ubuntu-gnome-remix-desktop (0.5.1) unstable; urgency=low
+
+  * Bump
+
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Fri, 07 Nov 2025 11:13:20 +0000
+
 ubuntu-gnome-remix-desktop (0.5.0) unstable; urgency=low
 
   * Ubuntu-standard, ubuntu-minimal
 
- -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Wed, 03 Jul 2024 09:28:54 +0000
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Wed, 03 Jul 2024 09:28:55 +0000
 
 ubuntu-gnome-remix-desktop (0.4.0) unstable; urgency=low
 
@@ -40,4 +46,9 @@ ubuntu-gnome-remix-desktop (0.1.0) unstable; urgency=low
   * Initial content (#3)
 
  -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Tue, 18 Jun 2024 13:07:08 +0000
+
+ubuntu-gnome-remix-desktop (0.0.1) unstable; urgency=low
+
+
+ -- Dmitriy Safronov <zimniy@cyberbrain.pw>  Tue, 18 Jun 2024 12:12:03 +0000
 
